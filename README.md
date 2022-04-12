@@ -2,4 +2,4 @@
 Business Model Canvas Music Player
 
 ### Boom : 
-![](Boom.png)
+![](Boom.jpg)
